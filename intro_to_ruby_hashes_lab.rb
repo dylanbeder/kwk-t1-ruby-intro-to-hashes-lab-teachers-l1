@@ -7,7 +7,7 @@ hsh= {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {:railroads => nil}
+	monopoly = {:railroads => {}}
 
 end
 
