@@ -7,7 +7,8 @@ hsh= {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {:railroads => nil}
+	monopoly = Hash.new
+	monopoly[:railroads] = {}
 
 end
 
