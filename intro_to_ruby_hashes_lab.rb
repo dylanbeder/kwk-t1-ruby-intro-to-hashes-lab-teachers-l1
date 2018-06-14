@@ -3,11 +3,11 @@ def new_hash
 end
 
 def actor
-
+hsh= {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {:railroads => nil}
 
 end
 
